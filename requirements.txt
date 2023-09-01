@@ -1,2 +1,2 @@
-anthropic==0.3.11
 prompt-lib@git+https://github.com/reasoning-machines/prompt-lib@b1662e7
+anthropic==0.2.10
