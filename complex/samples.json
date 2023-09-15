@@ -1,0 +1,47 @@
+[
+    {
+        "body": "Tesla, Volkswagen and Bosch opened a small educative factory for high schoolers and middle schoolers (starting grade 7). This factory produces tesla coils, luminiscent bracelets, dynamo machines and Sterling engines.",
+        "questions": [
+            {
+                "question": "How many manufacturers collaborated on this project?",
+                "answer": "3",
+                "acceptable_answers": ["three", "3.0", "three manufacturers", "Tesla, Volkswagen, and Bosch"]
+            },
+            {
+                "question": "How many corporations collaborated on this project?",
+                "answer": "3",
+                "acceptable_answers": ["three", "3.0", "three corporations"]
+            },
+            {
+                "question": "How many labels cooperated on this project?",
+                "answer": "3",
+                "acceptable_answers": ["three", "3.0", "three labels"]
+            },
+            {
+                "question": "How many countries collaborated on this project?",
+                "answer": "2",
+                "acceptable_answers": ["two", "2.0", "two countries"]
+            },
+            {
+                "question": "How many different items do they produce?",
+                "answer": "4",
+                "acceptable_answers": ["4.0", "four", "four items"]
+            },
+            {
+                "question": "What is the target school grade range for the children visiting factory?",
+                "answer": "7-12",
+                "acceptable_answers": ["seven to twelve", "grade 7 to grade 12", "seven through twelve", "7 through 12", "7 to 12"]
+            },
+            {
+                "question": "What is the target age range for the children visiting factory?",
+                "answer": "12-18",
+                "acceptable_answers": ["twelve to eighteen", "twelve through eighteen", "twelve up to eighteen"]
+            },
+            {
+                "question": "Which companies produce the Tesla coils in question?",
+                "answer": "Tesla, Volkswagen and Bosch",
+                "acceptable_answers": ["tesla, volkswagen, bosch", "volkswagen, tesla, bosch"]
+            }
+        ]
+    }
+]
